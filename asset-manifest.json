@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/evan-app/static/css/main.326d719b.css",
+    "main.js": "/evan-app/static/js/main.b49e4c94.js",
+    "static/js/198.f383baad.chunk.js": "/evan-app/static/js/198.f383baad.chunk.js",
+    "static/js/453.655801db.chunk.js": "/evan-app/static/js/453.655801db.chunk.js",
+    "static/media/primeicons.svg": "/evan-app/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/evan-app/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/evan-app/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/evan-app/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/evan-app/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/evan-app/index.html",
+    "main.326d719b.css.map": "/evan-app/static/css/main.326d719b.css.map",
+    "main.b49e4c94.js.map": "/evan-app/static/js/main.b49e4c94.js.map",
+    "198.f383baad.chunk.js.map": "/evan-app/static/js/198.f383baad.chunk.js.map",
+    "453.655801db.chunk.js.map": "/evan-app/static/js/453.655801db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.326d719b.css",
+    "static/js/main.b49e4c94.js"
+  ]
+}
