@@ -84,7 +84,7 @@ export default function Home() {
                     <textarea
                       value={content}
                       onChange={(e) => setContent(e.target.value)}
-                      placeholder="Write your content here..."
+                      placeholder="Write your content here. Markdown formatting supported"
                       className="textarea"
                     ></textarea>
                   </label>
