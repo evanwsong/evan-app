@@ -10,7 +10,7 @@ import About from './views/about';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/evan-app">
       <Routes className="route-body">
         <Route path="/" element={<Home />} />
         <Route path="/Test" element={<Test />} />
