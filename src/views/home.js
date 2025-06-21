@@ -28,7 +28,14 @@ export default function Home() {
   };
 
   const handleLogin = async (provider) => {
-    await supabase.auth.signInWithOAuth({ provider });
+    const redirectUrl = `${window.location.origin}${window.location.pathname}`;
+
+    await supabase.auth.signInWithOAuth({
+      provider,
+      options: {
+        redirectTo: redirectUrl
+      }
+    });
   };
 
   const handleLogout = async () => {
